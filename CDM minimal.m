@@ -1,4 +1,4 @@
-load iNL630_final1.mat
+load iNL638.mat
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Minimal In silico CDM medium%
