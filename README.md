@@ -7,3 +7,6 @@ Haemophilus influenzae Rd KW20 GEM project
 - CDM complete.m and CDM minimal.m contain the Matlab code to generate iNL638 in complete medium and minimal respectively.
 ## MEMOTE report
 - DataSet Memote_iNL638.pdf contains the MEMOTE report generated with iNL638 GEM
+
+## Escher maps
+- Directory with H. influenzae Rdkw20 escher maps
